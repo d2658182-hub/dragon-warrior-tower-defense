@@ -1,0 +1,92 @@
+[
+    1,
+    0,
+    0,
+    [
+        [
+            "cc.JsonAsset",
+            [
+                "_name",
+                "json"
+            ],
+            1
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            3
+        ]
+    ],
+    [
+        [
+            0,
+            "activity",
+            {
+                "2":
+                {
+                    "id": 2,
+                    "actType": 1,
+                    "unlockChapter": 4,
+                    "actName": "Challenge the Divine dragon",
+                    "stamina": 2,
+                    "diffValue": 0.2,
+                    "lvId": 10000,
+                    "actIcon": "img/ModeChains/activity/img_jzsl",
+                    "sceneMap": "img/ModeChains/bg/bg6",
+                    "fightCount":
+                    [
+                        5,
+                        3
+                    ],
+                    "reward":
+                    [
+                        13,
+                        12,
+                        11
+                    ],
+                    "gameWinReward":
+                    [
+                        [
+                            13,
+                            3,
+                            0.1
+                        ],
+                        [
+                            11,
+                            200,
+                            0.05
+                        ]
+                    ]
+                },
+                "3":
+                {
+                    "id": 3,
+                    "actType": 2,
+                    "unlockChapter": 6,
+                    "actName": "The Prequel to Slaying the Dragon",
+                    "stamina": 2,
+                    "diffValue": 0.05,
+                    "lvId": 10001,
+                    "actIcon": "img/ModeChains/activity/img_tlqz",
+                    "fightCount":
+                    [
+                        5,
+                        3
+                    ],
+                    "reward":
+                    [
+                        2
+                    ]
+                }
+            }
+        ]
+    ],
+    0,
+    0,
+    [],
+    [],
+    []
+]

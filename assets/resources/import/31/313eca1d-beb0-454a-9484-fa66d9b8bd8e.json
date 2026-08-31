@@ -1,0 +1,120 @@
+[
+    1,
+    0,
+    0,
+    [
+        [
+            "cc.JsonAsset",
+            [
+                "_name",
+                "json"
+            ],
+            1
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            3
+        ]
+    ],
+    [
+        [
+            0,
+            "TaskType",
+            {
+                "1":
+                {
+                    "taskTypeId": 1,
+                    "gotoId": 0,
+                    "desc": "1.Log in and go online to complete"
+                },
+                "2":
+                {
+                    "taskTypeId": 2,
+                    "gotoId": 1,
+                    "desc": "2.Sweep, sweep completed (regardless of whether you watched the ad), click to jump to the main interface and sweep the furthest level"
+                },
+                "3":
+                {
+                    "taskTypeId": 3,
+                    "gotoId": 2,
+                    "desc": "3.Daily store, any product in the daily store to complete, click to jump to the daily store"
+                },
+                "4":
+                {
+                    "taskTypeId": 4,
+                    "gotoId": 3,
+                    "desc": "4.Participate in the gameplay, participate in a specific gameplay to complete, click to jump to the specific gameplay"
+                },
+                "5":
+                {
+                    "taskTypeId": 5,
+                    "gotoId": 4,
+                    "desc": "5.Consume diamonds. After consuming any diamonds, click Go to jump to the store interface."
+                },
+                "6":
+                {
+                    "taskTypeId": 6,
+                    "gotoId": 5,
+                    "desc": "6.Consume gold coins. After the consumption of gold coins is completed, click Go to jump to the equipment interface"
+                },
+                "7":
+                {
+                    "taskTypeId": 7,
+                    "gotoId": 6,
+                    "desc": "7.Consume physical strength, consume physical strength to complete, click to jump to the main level interface"
+                },
+                "8":
+                {
+                    "taskTypeId": 8,
+                    "gotoId": 4,
+                    "desc": "8.Watch the ad. After watching any ad, click to jump to the box drawing."
+                },
+                "9":
+                {
+                    "taskTypeId": 9,
+                    "gotoId": 5,
+                    "desc": "9.Upgrade equipment. After upgrading any equipment, click Go to jump to the equipment interface."
+                },
+                "10":
+                {
+                    "taskTypeId": 10,
+                    "gotoId": 7,
+                    "desc": "10.Complete the main line, complete the specific level of the main line, click Go to jump to the main line level interface"
+                },
+                "11":
+                {
+                    "taskTypeId": 11,
+                    "gotoId": 4,
+                    "desc": "11.The treasure chest is opened. After opening any box, click Go to jump to the box drawing."
+                },
+                "12":
+                {
+                    "taskTypeId": 12,
+                    "gotoId": 7,
+                    "desc": "12.Kill the monsters. After killing any monster, click Go to jump to the main level interface."
+                },
+                "13":
+                {
+                    "taskTypeId": 13,
+                    "gotoId": 7,
+                    "desc": "13.Kill the BOSS. After killing any BOSS, click Go to jump to the main level interface."
+                },
+                "14":
+                {
+                    "taskTypeId": 14,
+                    "gotoId": 5,
+                    "desc": "14.Equipment level, the highest level of equipment reaches the specified level, click to jump to the equipment interface"
+                }
+            }
+        ]
+    ],
+    0,
+    0,
+    [],
+    [],
+    []
+]

@@ -1,0 +1,125 @@
+[
+    1,
+    0,
+    0,
+    [
+        [
+            "cc.JsonAsset",
+            [
+                "_name",
+                "json"
+            ],
+            1
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            3
+        ]
+    ],
+    [
+        [
+            0,
+            "BagGuide",
+            {
+                "10000":
+                {
+                    "id": 10000,
+                    "desc": "Press and hold the screen to move left or right"
+                },
+                "10001":
+                {
+                    "id": 10001,
+                    "desc": "Put all the equipment that appears below into your backpack."
+                },
+                "10002":
+                {
+                    "id": 10002,
+                    "desc": "After defeating the treasure chest, you can get attribute enhancement. Choose 1 attribute enhancement."
+                },
+                "10003":
+                {
+                    "id": 10003,
+                    "desc": "The same equipment can be synthesized and upgraded"
+                },
+                "10004":
+                {
+                    "id": 10004,
+                    "desc": "The money bag will produce additional silver coins after each wave.",
+                    "btnClick": 1
+                },
+                "10005":
+                {
+                    "id": 10005,
+                    "desc": "Get ready, let's start fighting"
+                },
+                "10006":
+                {
+                    "id": 10006,
+                    "desc": "After defeating the treasure chest, you can get attribute enhancement. Choose 1 attribute enhancement."
+                },
+                "10007":
+                {
+                    "id": 10007,
+                    "desc": "Every time you defeat a wave of zombies, you can get some silver coins. Next, let's continue to organize our backpacks.",
+                    "btnClick": 1
+                },
+                "10008":
+                {
+                    "id": 10008,
+                    "desc": "Add new grids to expand the backpack space"
+                },
+                "10009":
+                {
+                    "id": 10009,
+                    "desc": "Use silver coins to refresh equipment and get more equipment"
+                },
+                "10010":
+                {
+                    "id": 10010,
+                    "desc": "Make full use of backpack space and become a storage master",
+                    "btnClick": 1
+                },
+                "10011":
+                {
+                    "id": 10011,
+                    "desc": "Got weapon fragments, upgrade your weapons to make them stronger"
+                },
+                "10012":
+                {
+                    "id": 10012
+                },
+                "10013":
+                {
+                    "id": 10013,
+                    "desc": "After upgrading the weapon, the basic attributes can be increased, and new enhanced attributes will be unlocked at a certain level."
+                },
+                "10014":
+                {
+                    "id": 10014,
+                    "desc": "As you clear levels, you can unlock more powerful weapons",
+                    "btnClick": 1
+                },
+                "10015":
+                {
+                    "id": 10015,
+                    "desc": "The dragon strikes again, meet the challenge!"
+                },
+                "10016":
+                {
+                    "id": 10016,
+                    "desc": "Start fighting dragons!",
+                    "btnClick": 1
+                }
+            }
+        ]
+    ],
+    0,
+    0,
+    [],
+    [],
+    []
+]
